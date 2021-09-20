@@ -1,0 +1,3 @@
+sudo apt update && sudo apt install -y kali-desktop-gnome
+sudo apt update && sudo apt install -y kali-desktop-xfce
+sudo  update-alternativess --config x-session-manager
